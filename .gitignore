@@ -1,0 +1,9 @@
+# Photos never enter this repo, only the ASCII they become.
+*.jpg
+*.jpeg
+*.png
+*.heic
+*.webp
+__pycache__/
+.venv/
+.DS_Store
