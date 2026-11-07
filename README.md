@@ -20,11 +20,11 @@
 <!-- LATEST:START -->
 | Shipped | Project | What it is |
 |:--|:--|:--|
+| Nov 7 | [**leveraged-buyouts-explained**](https://github.com/wilsonwu-ai/leveraged-buyouts-explained) · [live](https://wilsonwu-ai.github.io/leveraged-buyouts-explained/) | Leveraged buyouts, explained: search funds and ETA in plain language. |
+| Nov 7 | [**memory-dream**](https://github.com/wilsonwu-ai/memory-dream) | Read-only audit of Claude Code's memory folders: reports what a clean-up pass would fix and prints a proposed plan. |
+| Nov 7 | [**hyperscalers-explained**](https://github.com/wilsonwu-ai/hyperscalers-explained) | How hyperscalers make money, what the AI build-out costs, who pays for it, and what has to be true for it to pay off. |
 | Nov 5 | [**buying-a-business-explained**](https://github.com/wilsonwu-ai/buying-a-business-explained) · [live](https://wilsonwu-ai.github.io/buying-a-business-explained/) | How a small-business acquisition gets paid for: the capital stack, leveraged buyouts, the SBA 5% own-cash rule and what… |
 | Nov 5 | [**before-you-type**](https://github.com/wilsonwu-ai/before-you-type) | See how many tokens your coding agent sends with your first message, week by week, and what that first request is made… |
-| Nov 4 | [**claude-certified-guide**](https://github.com/wilsonwu-ai/claude-certified-guide) | Free study guide for all four Claude certifications. Every number checked against Anthropic's exam guides. |
-| Nov 4 | [**harness-loop-dag-graph**](https://github.com/wilsonwu-ai/harness-loop-dag-graph) | Prompt, context, harness, loop, DAG, graph: the six levels of agent engineering, each as runnable Python with tests. |
-| Nov 4 | [**floor-plan-to-house**](https://github.com/wilsonwu-ai/floor-plan-to-house) · [live](https://wilsonwu-ai.github.io/floor-plan-to-house/) | A floor plan that becomes a 3D house as you scroll, then hands you to the real Open House tour. |
 <!-- LATEST:END -->
 
 <sub>My five newest portfolio repos, pulled from the GitHub API every morning.</sub>
