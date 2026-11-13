@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1060" height="692" viewBox="0 0 1060 692" role="img" aria-labelledby="ttl dsc" xml:space="preserve">
 <title id="ttl">Wilson Wu, GitHub profile card</title>
-<desc id="dsc">An ASCII portrait of Wilson Wu made of letters, beside a neofetch-style panel: Georgia Tech M.S. CS, Founder and CEO of Dubbs Capital, CRO of Snappy, certifications, and GitHub stats refreshed 2026-11-12.</desc>
+<desc id="dsc">An ASCII portrait of Wilson Wu made of letters, beside a neofetch-style panel: Georgia Tech M.S. CS, Founder and CEO of Dubbs Capital, CRO of Snappy, certifications, and GitHub stats refreshed 2026-11-13.</desc>
 <style>
 text{font-family:'SF Mono','Cascadia Code','JetBrains Mono',Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace;white-space:pre}
 .p{font-size:9.5px} .l{font-size:15.0px}
@@ -20,7 +20,7 @@ text{font-family:'SF Mono','Cascadia Code','JetBrains Mono',Menlo,Consolas,'Deja
 <circle cx="40" cy="17.0" r="6" fill="#febc2e"/>
 <circle cx="60" cy="17.0" r="6" fill="#28c840"/>
 <text x="530.0" y="22.0" text-anchor="middle" style="font-size:13px;fill:#57606a">wilsonwu-ai: ~ (zsh)</text>
-<text x="1044" y="22.0" text-anchor="end" style="font-size:11px;fill:#57606a">refreshed 2026-11-12</text>
+<text x="1044" y="22.0" text-anchor="end" style="font-size:11px;fill:#57606a">refreshed 2026-11-13</text>
 <text x="28.0" y="64.0" class="l" textLength="225.0" lengthAdjust="spacing" style="animation-delay:0.00s"><tspan class="u">wilson@wu-ai</tspan><tspan class="o"> ~ </tspan><tspan class="m">% </tspan><tspan class="v">neofetch</tspan></text>
 <text x="216.1" y="153.4" class="p" textLength="114.0" lengthAdjust="spacing" style="animation-delay:0.14s"><tspan class="t4">NNMMNMMMMNMNMMMMNNNN</tspan></text>
 <text x="170.5" y="164.5" class="p" textLength="188.1" lengthAdjust="spacing" style="animation-delay:0.16s"><tspan class="t4">NNNNMMMWWW</tspan><tspan class="t3">RRRRRRR</tspan><tspan class="t4">W</tspan><tspan class="t3">RDRRRR</tspan><tspan class="t4">WW</tspan><tspan class="t3">R</tspan><tspan class="t4">WMMNNN</tspan></text>
@@ -69,7 +69,7 @@ text{font-family:'SF Mono','Cascadia Code','JetBrains Mono',Menlo,Consolas,'Deja
 <text x="514.0" y="104.0" class="l" textLength="108.0" lengthAdjust="spacing" style="animation-delay:0.35s"><tspan class="u">wilson</tspan><tspan class="m">@</tspan><tspan class="o">wu-ai</tspan></text>
 <text x="514.0" y="123.0" class="l" textLength="108.0" lengthAdjust="spacing" style="animation-delay:0.40s"><tspan class="m">------------</tspan></text>
 <text x="514.0" y="142.0" class="l" textLength="378.0" lengthAdjust="spacing" style="animation-delay:0.46s"><tspan class="k">OS</tspan><tspan class="m">: </tspan><tspan class="d">............</tspan><tspan class="v"> </tspan><tspan class="v">macOS · zsh · Claude Code</tspan></text>
-<text x="514.0" y="161.0" class="l" textLength="477.0" lengthAdjust="spacing" style="animation-delay:0.52s"><tspan class="k">Uptime</tspan><tspan class="m">: </tspan><tspan class="d">........</tspan><tspan class="v"> </tspan><tspan class="v">4 years, 9 months, 25 days on GitHub</tspan></text>
+<text x="514.0" y="161.0" class="l" textLength="477.0" lengthAdjust="spacing" style="animation-delay:0.52s"><tspan class="k">Uptime</tspan><tspan class="m">: </tspan><tspan class="d">........</tspan><tspan class="v"> </tspan><tspan class="v">4 years, 9 months, 26 days on GitHub</tspan></text>
 <text x="514.0" y="180.0" class="l" textLength="513.0" lengthAdjust="spacing" style="animation-delay:0.57s"><tspan class="k">Host</tspan><tspan class="m">: </tspan><tspan class="d">..........</tspan><tspan class="v"> </tspan><tspan class="v">Georgia Tech · M.S. CS, AI (in progress)</tspan></text>
 <text x="514.0" y="199.0" class="l" textLength="333.0" lengthAdjust="spacing" style="animation-delay:0.62s"><tspan class="k">Firmware</tspan><tspan class="m">: </tspan><tspan class="d">......</tspan><tspan class="v"> </tspan><tspan class="v">Duke MBA · TMU BComm</tspan></text>
 <text x="514.0" y="218.0" class="l" textLength="432.0" lengthAdjust="spacing" style="animation-delay:0.68s"><tspan class="k">Code</tspan><tspan class="m">: </tspan><tspan class="d">..........</tspan><tspan class="v"> </tspan><tspan class="v">Python · C · JS/TS · SQL · Bash</tspan></text>
@@ -97,8 +97,8 @@ text{font-family:'SF Mono','Cascadia Code','JetBrains Mono',Menlo,Consolas,'Deja
 <rect x="694.0" y="548.0" width="26" height="14" rx="2" fill="#8250df" class="l" style="animation-delay:1.56s"/>
 <rect x="724.0" y="548.0" width="26" height="14" rx="2" fill="#24292f" class="l" style="animation-delay:1.56s"/>
 <text x="514.0" y="588.5" class="l" textLength="216.0" lengthAdjust="spacing" style="animation-delay:1.61s"><tspan class="u">wilson@wu-ai</tspan><tspan class="o"> ~ </tspan><tspan class="m">% </tspan><tspan class="v">fortune</tspan></text>
-<text x="514.0" y="607.5" class="l" textLength="504.0" lengthAdjust="spacing" style="animation-delay:1.67s"><tspan class="q">&quot;Transformers are parallel in training and sequential at</tspan></text>
-<text x="514.0" y="626.5" class="l" textLength="351.0" lengthAdjust="spacing" style="animation-delay:1.73s"><tspan class="q">inference.&quot;</tspan><tspan class="m">  -- sequential-at-inference</tspan></text>
+<text x="514.0" y="607.5" class="l" textLength="486.0" lengthAdjust="spacing" style="animation-delay:1.67s"><tspan class="q">&quot;A big model writes the test, a tiny model takes it 60</tspan></text>
+<text x="514.0" y="626.5" class="l" textLength="522.0" lengthAdjust="spacing" style="animation-delay:1.73s"><tspan class="q">times, a Python interpreter grades it.&quot;</tspan><tspan class="m">  -- plan-then-cull</tspan></text>
 <text x="514.0" y="645.5" class="l" textLength="153.0" lengthAdjust="spacing" style="animation-delay:1.78s"><tspan class="u">wilson@wu-ai</tspan><tspan class="o"> ~ </tspan><tspan class="m">% </tspan></text>
 <rect x="669.0" y="632.5" width="9" height="17" fill="#1a7f37" class="c"/>
 </svg>
