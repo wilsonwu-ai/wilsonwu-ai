@@ -20,11 +20,11 @@
 <!-- LATEST:START -->
 | Shipped | Project | What it is |
 |:--|:--|:--|
+| Nov 24 | [**nvidia-model**](https://github.com/wilsonwu-ai/nvidia-model) | NVIDIA (NVDA) quarterly financial model in Excel, built from NVIDIA's SEC filings. |
 | Nov 15 | [**hbs-eta-2026**](https://github.com/wilsonwu-ai/hbs-eta-2026) | Notes from the HBS ETA Conference 2026: Romney, the new SBA rules, Guild Garage and roll-ups, in plain language. |
 | Nov 9 | [**thinkstop**](https://github.com/wilsonwu-ai/thinkstop) | Stop a reasoning model's thinking loop and ask for the answer. |
 | Nov 8 | [**sundai-hack-148**](https://github.com/wilsonwu-ai/sundai-hack-148) · [live](https://wilsonwu-ai.github.io/sundai-hack-148/) | DEFY: an AI seals its guess before each of your 12 taps, then dares you to pick anything else. Sundai Hack 148. |
 | Nov 7 | [**leveraged-buyouts-explained**](https://github.com/wilsonwu-ai/leveraged-buyouts-explained) · [live](https://wilsonwu-ai.github.io/leveraged-buyouts-explained/) | Leveraged buyouts, explained: search funds and ETA in plain language. |
-| Nov 7 | [**memory-dream**](https://github.com/wilsonwu-ai/memory-dream) | Read-only audit of Claude Code's memory folders: reports what a clean-up pass would fix and prints a proposed plan. |
 <!-- LATEST:END -->
 
 <sub>My five newest portfolio repos, pulled from the GitHub API every morning.</sub>
